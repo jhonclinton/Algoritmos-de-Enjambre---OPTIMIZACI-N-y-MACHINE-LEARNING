@@ -17,7 +17,6 @@ CICLO DEL ALGORITMO PSO:
 =============================================================================
 """
 
-# ── Librerías (todas disponibles en Google Colab sin instalación extra) ───────
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_breast_cancer
